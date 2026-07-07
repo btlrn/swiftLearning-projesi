@@ -79,7 +79,7 @@ actors2.insert("Robert De Niro")
 
 print(actors2)
 
-// sırasız olması veya tekrara izin vermemesi bir dezavantaj gibi düşünülse de verinin içerip içerilmediğine bakıldığında (contains) dizilere göre ççok daha hızlı sonuç verir.
+// sırasız olması veya tekrara izin vermemesi bir dezavantaj gibi düşünülse de verinin içerip içerilmediğine bakıldığında (contains) dizilere göre çok daha hızlı sonuç verir.
 
 
 // ENUM
